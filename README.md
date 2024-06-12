@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/ankitmawle/VSDSquadronMini_Arduino_support/mai
 
 ## Pins :- 
 / Digital PinName array,Some GPIOs are bound to the same pin. 
+```
 const PinName digitalPin[] = {
   PA_1,   // D0/A1   
   PA_2,   // D1/A0
@@ -50,3 +51,4 @@ const uint32_t analogInputPin[] = {
   16,   // A6/PD6
   14    // A7/PD4 
 };
+```
