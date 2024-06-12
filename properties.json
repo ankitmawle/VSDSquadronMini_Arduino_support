@@ -12,7 +12,7 @@
           {
             "name": "VSD Squadron Mini CH32 MCU EVT Boards",
             "architecture": "ch32v",
-            "version": "1.0.4",
+            "version": "0.0.4",
             "category": "Contributed",
             "url": "https://github.com/ankitmawle/arduino_core_ch32_for_Vsd/releases/download/0.0.1/arduino_core_ch32_for_Vsd-main.zip",
             "archiveFileName": "arduino_core_ch32_for_Vsd-main.zip",
