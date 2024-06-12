@@ -1,5 +1,7 @@
 # VSDSquadronMini_Arduino_support
 Allow Programming VSD Squadron Mini a 32 bit RISC-V Microcontroller using Arduino IDE 
+- **Please support me by giving a Star to this repo**
+- **Please Mention Issues you find in issues section**
 
 ## Usage
 1. Open Arduino with Administrator Previleges
