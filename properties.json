@@ -17,7 +17,7 @@
             "url": "https://github.com/ankitmawle/arduino_core_ch32_for_Vsd/releases/download/0.0.1/arduino_core_ch32_for_Vsd-main.zip",
             "archiveFileName": "arduino_core_ch32_for_Vsd-main.zip",
             "checksum": "SHA-256:21a8c917c73cf68a4d3f8d7d0fa536ef5eedba9a24baba314576119325835b8a",
-            "size": "980095",
+            "size": "1372251",
             "boards": [
               {"name": "VSD Squadron Mini"}, 
               {"name": "CH32X035 EVT Board"},
