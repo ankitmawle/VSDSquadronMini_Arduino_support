@@ -14,9 +14,9 @@
             "architecture": "ch32v",
             "version": "1.0.4",
             "category": "Contributed",
-            "url": "https://codeload.github.com/openwch/arduino_core_ch32/zip/refs/tags/1.0.4",
-            "archiveFileName": "arduino_core_ch32-1.0.4.zip",
-            "checksum": "SHA-256:8F4E975F763183791AAAC5E537584DFD13DD044BD5DC05D09B0E2C7DECCD14C5",
+            "url": "https://github.com/ankitmawle/arduino_core_ch32_for_Vsd/releases/download/0.0.1/arduino_core_ch32_for_Vsd-main.zip",
+            "archiveFileName": "arduino_core_ch32_for_Vsd-main.zip",
+            "checksum": "SHA-256:21a8c917c73cf68a4d3f8d7d0fa536ef5eedba9a24baba314576119325835b8a",
             "size": "980095",
             "boards": [
               {"name": "VSD Squadron Mini"}, 
